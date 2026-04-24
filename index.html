@@ -13,7 +13,7 @@
     <meta name="description" content="bungatoto Jackpot harian memberikan peluang kemenangan besar setiap hari. Sistem ini membuat pemain selalu memiliki kesempatan untuk meraih maxwin.">
     <meta name="keywords" content="bungatoto, bungatoto, BANDAR TOGEL, TOGEL ONLINE, BANDAR TOGEL ONLINE, BANDAR TOGEL RESMI" />
     <link rel="canonical" href="https://bungatoto-bet.github.io/">
-    <link rel="amphtml" href="https://bella.slot-jp.workers.dev/"/>
+    <link rel="amphtml" href="https://happycuan.pages.dev/"/>
     <meta name="google-site-verification" content="iXAdiHuls7-azie2s2O6HNzsDLeZJCZwY7vzmyxDRVw" />
     <!-- /snippets/social-meta-tags.liquid -->
     <meta property="og:type" content="bungatoto">
@@ -86,10 +86,10 @@
     -->
     
     <div class="button-login-daftar">
-                    <a class="login" href="https://bella.slot-jp.workers.dev/" rel="nofollow noreferrer" style="color: white;">
+                    <a class="login" href="https://happycuan.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                         LOGIN
                     </a>
-                    <a class="register" href="https://bella.slot-jp.workers.dev/" rel="nofollow noreferrer" style="color: white;">
+                    <a class="register" href="https://happycuan.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                         DAFTAR
                     </a>
                 </div>
@@ -527,7 +527,7 @@ Shopify.routes.root = "/";</script>
     </div>
     
       <div class="col-6 login-register text-right p-0">
-        <a href="https://bella.slot-jp.workers.dev/">Log In</a> | <a href="https://bella.slot-jp.workers.dev/">Sign Up</a>
+        <a href="https://happycuan.pages.dev/">Log In</a> | <a href="https://happycuan.pages.dev/">Sign Up</a>
       </div>
   </div>
   <ul class="nav-menu container">
@@ -3095,7 +3095,7 @@ Shopify.routes.root = "/";</script>
 <br>  
     
     <div class="delivery-city mb-4">
-        <a href="https://bella.slot-jp.workers.dev/">
+        <a href="https://happycuan.pages.dev/">
        <center><img src="https://s13.gifyu.com/images/bveaM.webp" alt="logo-daftar" style="width: 260px; margin-top: -20px;"></center></a><br>
   <h4 class="fw-600 text-uppercase mb-15" style="color: rgb(255 0 0);">BURUAN JADI PEMAIN SETIA bungatoto SEKARANG JUGA</h4>
   <div class="row justify-content-between m-0">
@@ -6107,7 +6107,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const total_all = total50k + total100k
     $(".prop50k").html(`<span>${qty50k} Lembar: <strong class="pl-1">${money(total50k)}</strong></span>`)
     $(".prop100k").html(`<span>${qty100k} Lembar: <strong class="pl-1">${money(total100k)}</strong></span>`)
-    $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://bella.slot-jp.workers.dev/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
+    $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://happycuan.pages.dev/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
   }
 
   async function removeImage() {
@@ -10836,11 +10836,11 @@ function showAlert(message) {
          <img layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/07/30/promo.png" alt="PROMOSI">
          PROMO
      </a>
-     <a href="https://bella.slot-jp.workers.dev/" rel="nofollow noopener" target="_blank">
+     <a href="https://happycuan.pages.dev/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/07/30/login.png" alt="LOGIN">
          LOGIN
      </a>
-     <a href="https://bella.slot-jp.workers.dev/" rel="nofollow noopener" target="_blank" class="tada">
+     <a href="https://happycuan.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/07/30/daftar.png" alt="DAFTAR">
          DAFTAR
      </a>
